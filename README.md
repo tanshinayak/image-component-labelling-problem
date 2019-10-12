@@ -1,1 +1,1 @@
-# image-component-labelling-problem
+# Image Component Labelling Problem
