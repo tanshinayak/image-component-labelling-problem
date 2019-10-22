@@ -41,7 +41,7 @@ Appart from these two, there are various other algos and improvements, some of w
 
 
 ### Sources reffered:
-(Binary Image Ananlysis)[https://courses.cs.washington.edu/courses/cse373/00au/chcon.pdf]  
-(A New Parallel Algorithm)[http://cucis.ece.northwestern.edu/publications/pdf/GPP14.pdf]  
+[Binary Image Ananlysis](https://courses.cs.washington.edu/courses/cse373/00au/chcon.pdf)  
+[A New Parallel Algorithm](http://cucis.ece.northwestern.edu/publications/pdf/GPP14.pdf) 
 
 
